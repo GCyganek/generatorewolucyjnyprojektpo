@@ -1,0 +1,36 @@
+===========
+Average statistics for simulation number 1 after 200 days:
+   Average animal count of all days: 89.095
+   Average plant count of all days: 18.87
+   Average life energy for living animals of all days: 52.669
+   Average life span for dead animals of all days: 56.255
+   Average children count for living animals of all days: 0.629
+   Genome with the most occurrences of all days: 
+   [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7]
+   with 1 occurrences
+
+
+===========
+Average statistics for simulation number 1 after 330 days:
+   Average animal count of all days: 69.433
+   Average plant count of all days: 27.421
+   Average life energy for living animals of all days: 55.648
+   Average life span for dead animals of all days: 76.22
+   Average children count for living animals of all days: 0.856
+   Genome with the most occurrences of all days: 
+   [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7]
+   with 1 occurrences
+
+
+===========
+Average statistics for simulation number 2 after 600 days:
+   Average animal count of all days: 57.302
+   Average plant count of all days: 36.82
+   Average life energy for living animals of all days: 56.889
+   Average life span for dead animals of all days: 91.623
+   Average children count for living animals of all days: 1.413
+   Genome with the most occurrences of all days: 
+   [0, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 4, 5, 5, 5, 5, 5, 6, 6, 6, 7, 7, 7, 7]
+   with 1 occurrences
+
+
