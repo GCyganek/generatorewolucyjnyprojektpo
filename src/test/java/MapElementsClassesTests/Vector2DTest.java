@@ -1,6 +1,6 @@
 package MapElementsClassesTests;
 
-import MapElementsClasses.Vector2D;
+import map.mapElements.util.Vector2D;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

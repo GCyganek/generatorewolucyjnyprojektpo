@@ -1,10 +1,10 @@
 package SimulationTests;
 
-import Enums.MapDirection;
-import MapElementsClasses.Animal;
-import MapElementsClasses.Vector2D;
-import Simulation.SimulationOperations;
-import WorldClasses.SteppeMapWithJungle;
+import map.mapElements.util.MapDirection;
+import map.mapElements.Animal;
+import map.mapElements.util.Vector2D;
+import simulation.SimulationOperations;
+import map.SteppeMapWithJungle;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,6 +1,6 @@
 package EnumsTests;
 
-import Enums.MapDirection;
+import map.mapElements.util.MapDirection;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

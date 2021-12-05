@@ -30,4 +30,4 @@ test {
     }
 }
 
-mainClassName = "Visualisation.Main"
+mainClassName = "Main"
